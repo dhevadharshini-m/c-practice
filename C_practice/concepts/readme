@@ -1,0 +1,6 @@
+structure with 4 members
+ssid_name , signal_strength , password , frequency, available
+multiple wifi APs
+should store config inside single file for each AP
+should return best AP when requested 
+ability to delete AP and add AP(validate AP)
