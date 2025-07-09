@@ -1,0 +1,15 @@
+a1.txt
+Desktop
+Documents
+Downloads
+gfg
+google-chrome-stable_current_amd64.deb
+list.txt
+Music
+op.txt
+Pictures
+prac.txt
+Public
+snap
+Templates
+Videos
